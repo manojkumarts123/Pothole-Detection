@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Pothole Alert</string>
-    <string name="speed">My Speed : 60 km/h</string>
-    <string name="get_location">Get Location</string>
-    <string name="latitude">Latitude : </string>
-    <string name="Address">Address : </string>
-    <string name="longitude">Longitude : </string>
-</resources>
